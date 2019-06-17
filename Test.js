@@ -4,7 +4,7 @@ var myObject = {
 	age: 34,
 	hair: 'brown'
 }
-
+console.log('123');
 //tast2
 function getProp(obj) {
 	return obj.name;
